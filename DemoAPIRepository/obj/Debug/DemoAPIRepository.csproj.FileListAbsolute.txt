@@ -1,0 +1,10 @@
+D:\Thulasiraman\MVC\DemoWebAPI\DemoAPIRepository\bin\Debug\DemoAPIRepository.dll.config
+D:\Thulasiraman\MVC\DemoWebAPI\DemoAPIRepository\bin\Debug\DemoAPIRepository.dll
+D:\Thulasiraman\MVC\DemoWebAPI\DemoAPIRepository\bin\Debug\DemoAPIRepository.pdb
+D:\Thulasiraman\MVC\DemoWebAPI\DemoAPIRepository\bin\Debug\EntityFramework.dll
+D:\Thulasiraman\MVC\DemoWebAPI\DemoAPIRepository\bin\Debug\EntityFramework.SqlServer.dll
+D:\Thulasiraman\MVC\DemoWebAPI\DemoAPIRepository\bin\Debug\EntityFramework.xml
+D:\Thulasiraman\MVC\DemoWebAPI\DemoAPIRepository\bin\Debug\EntityFramework.SqlServer.xml
+D:\Thulasiraman\MVC\DemoWebAPI\DemoAPIRepository\obj\Debug\DemoAPIRepository.csprojResolveAssemblyReference.cache
+D:\Thulasiraman\MVC\DemoWebAPI\DemoAPIRepository\obj\Debug\DemoAPIRepository.dll
+D:\Thulasiraman\MVC\DemoWebAPI\DemoAPIRepository\obj\Debug\DemoAPIRepository.pdb
